@@ -1,20 +1,19 @@
 <?php
 /**
- * ISPager - постраничная навигация
+ * MPager - постраничная навигация
  *
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  *
- * @package    ISPager
- * @subpackage ISPager\View
+ * @package    MPager
+ * @subpackage MPager\View
  */
 
-namespace ISPager;
+namespace MPager;
 
 /**
  * Класс представления постраничной навигации в виде диапазонов элементов
  *
- * @author D. Koterov <dmitry.koterov@gmail.com>
- * @author I. Simdyanov <igorsimdyanov@gmail.com>
+ * @author M. Blyzniuk <mukolakolia@gmail.com>
  *
  * @abstract
  */
