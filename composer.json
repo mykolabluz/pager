@@ -1,0 +1,24 @@
+{
+    "name": "mykola/pager",
+    "description": "A library to split results into multiple pages",
+    "keywords": ["pager", "paginator", "pagination"],
+    "homepage": "https://github.com/mykola/pager",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mykola Blyzniuk",
+            "email": "mukolakolia@gmail.com"
+        }
+    ],
+    "support": {
+        "email": "mukolakolia@gmail.com"
+    },
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "MPager\\": "src/"
+        }
+    }
+}
